@@ -37,11 +37,10 @@
 - 📍 Viña del Mar, Chile
 - ✉️ [martin.ortega@sansano.usm.cl](mailto:martin.ortega@sansano.usm.cl)
 
-### 📊 Mis Lenguajes Más Usados
+### 📊 Mis Lenguajes Más Usados en GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinosky&layout=compact&theme=blue-green)
 
 ### 📈 Mi Actividad en GitHub
 ![Martín's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martinosky&show_icons=true&theme=radical)
-
 
 
