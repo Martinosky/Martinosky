@@ -43,9 +43,5 @@
 ### 📈 Mi Actividad en GitHub
 ![Martín's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martinosky&show_icons=true&theme=radical)
 
-### 🛠 Tecnologías y Habilidades
-![Python](https://img.shields.io/badge/Python-Intermedio-blue)
-![C++](https://img.shields.io/badge/C++-Intermedio-lightgrey)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermedio-yellow)
-![Docker](https://img.shields.io/badge/Docker-Básico-blue)
+
 
