@@ -31,10 +31,10 @@
 - 🔹 **Minería de Datos** → Implementación de técnicas básicas de análisis de datos sobre datasets reales.
 
 ---
+### 📊 Mis Lenguajes Más Usados en GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinosky&layout=compact&theme=blue-green)
 
 ## 📫 Contacto
 - 📍 Viña del Mar, Chile
 - ✉️ [martin.ortega@sansano.usm.cl](mailto:martin.ortega@sansano.usm.cl)
 
-### 📊 Mis Lenguajes Más Usados en GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinosky&layout=compact&theme=blue-green)
