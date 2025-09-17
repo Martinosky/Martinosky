@@ -5,9 +5,8 @@
 ---
 
 ## 💡 Sobre mí
-- 🔭 Actualmente en búsqueda de **mi primera práctica profesional**.
-- 🌱 Interés en **Cloud Computing** y **IoT**.
-- ⚡ Aprendo rápido, soy responsable y disfruto trabajar en equipo.
+- 🔭 Actualmente en búsqueda de **mi primera práctica**.
+- 🌱 Interés en **sistemas IoT**.
 
 ---
 
@@ -29,7 +28,7 @@
 ## 📂 Proyectos Destacados
 *(aquí puedes agregar proyectos de la universidad o personales, por ejemplo repositorios en GitHub)*
 - 🔹 **Simulación de Redes en Python** → Modelado y análisis de tráfico de red usando Pandas, Numpy y Matplotlib.
-- 🔹 **Diseño de Aplicación Web** → Desarrollo de una aplicación con **React y Node.js**.
+- 🔹 **Diseño de Aplicación Web** → Desarrollo de una aplicación con usando **MERN Stack**.
 - 🔹 **Minería de Datos** → Implementación de técnicas básicas de análisis de datos sobre datasets reales.
 
 ---
