@@ -15,7 +15,7 @@
 - **Frameworks y BD:** MERN (MongoDB, Express.js, React, Node.js), MySQL, PostgreSQL
 - **Sistemas y Redes:** Linux (intermedio), Docker (básico), Cisco, simuladores (Packet Tracer, GNS3, eNSP)
 - **Herramientas de desarrollo:** Git, GitHub, GitLab
-- **Ofimática:** Excel (básico), Word (avanzado), PowerPoint (intermedio)
+- **Ofimática:** Excel (intermedio), Word (avanzado), PowerPoint (intermedio)
 
 ---
 
