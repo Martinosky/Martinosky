@@ -6,16 +6,17 @@
 
 ## 💡 Sobre mí
 - 🔭 Actualmente en búsqueda de **mi primera práctica**.
-- 🌱 Interés en **sistemas IoT**.
+- 🌱 Interés en **Redes, Cloud y Ciberseguridad**.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 - **Lenguajes:** Python (intermedio), C/C++ (intermedio), JavaScript (intermedio), Java (básico)
 - **Frameworks y BD:** MERN (MongoDB, Express.js, React, Node.js), MySQL, PostgreSQL
-- **Sistemas y Redes:** Linux (intermedio), Docker (básico), Cisco, simuladores (Packet Tracer, GNS3, eNSP)
+- **Sistemas y Redes:** Linux (intermedio), Docker (básico), Cisco (Cableado Estructurado), simuladores (Packet Tracer, GNS3, eNSP)
 - **Herramientas de desarrollo:** Git, GitHub, GitLab
 - **Ofimática:** Excel (intermedio), Word (avanzado), PowerPoint (intermedio)
+- **Cloud:** Azure (Muy básico)
 
 ---
 
@@ -29,6 +30,7 @@
 - 🔹 **Simulación de Redes en Python** → Modelado y análisis de tráfico de red usando Pandas, Numpy y Matplotlib.
 - 🔹 **Diseño de Aplicación Web** → Desarrollo de una aplicación web usando **MERN Stack**.
 - 🔹 **Minería de Datos** → Implementación de técnicas básicas de análisis de datos sobre datasets reales.
+- 🔹 **Criptografia y seguridad de la información** → Realización de exploits para atacar vulnerabilidades de sistemas criptograficos.
 
 ---
 ### 📊 Mis Lenguajes Más Usados en GitHub
