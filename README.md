@@ -1,6 +1,6 @@
 # 👋 Hola, soy Martín Ortega Markic
 
-🎓 **Estudiante de Ingeniería Civil Telemática** en la Universidad Técnica Federico Santa María (UTFSM). Me apasiona el desarrollo de software, las redes de computadores y la ciencia de datos. 🚀
+🎓 **Estudiante de Ingeniería Civil Telemática** en la Universidad Técnica Federico Santa María (UTFSM). Con formación en desarrollo de software, redes de computadores (cableado estructurado y simuladores), ciencia de datos y Criptografía. 🚀
 
 ---
 
