@@ -6,7 +6,7 @@
 
 ## 💡 Sobre mí
 - 🔭 Actualmente en búsqueda de **mi primera práctica**.
-- 🌱 Interés en **Redes, Cloud y Ciberseguridad**.
+- 🌱 Interés en **Redes, Ciencia de Datos, Ciberseguridad**.
 
 ---
 
